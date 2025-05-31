@@ -18,6 +18,18 @@ Link to the privacy policy of third-party service providers used by the app
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
 
+**Location Data**
+
+Live Location Policy
+
+Our app collects live location data solely for the purpose of enabling real-time tracking for consumers. This data is used to display your current geo-location to end users during active deliveries or service sessions.
+
+Usage Limitation: We do not use your location data for any purposes other than displaying live location to consumers within the app.
+
+Data Retention: We do not store location history. All location data is automatically deleted within 24 hours to ensure your privacy and data safety.
+
+User Consent: Live location tracking is initiated only after obtaining your explicit consent. If you choose to opt out of live tracking, the app will not collect or share your device’s location data.
+
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -55,7 +67,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2024-Nov-25
+This policy is effective as of 2025-May-31
 
 **Contact Us**
 
